@@ -44,7 +44,7 @@
   "commands": {
     "_execute_sidebar_action": {
       "suggested_key": {
-        "default": "Ctrl+Alt+F"
+        "default": "Ctrl+Alt+M"
       }
     }
   }
