@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "Fastmail Sidebar",
-  "version": "0.1",
+  "version": "0.1.1",
   "description": "Displays a sidebar with Fastmail.",
   "author": "vlaship",
   "browser_specific_settings": {
